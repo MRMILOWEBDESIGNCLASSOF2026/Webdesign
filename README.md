@@ -3,5 +3,5 @@
 - WEB DESINGER
 - Student
 - README.md
-- Thank yhu for your time..,
+- أنا أحب تصميم المواقع الإلكترونية!
 - 
