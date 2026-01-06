@@ -3,4 +3,4 @@
 - WEB DESINGER
 - Student
 - README.md
--Than k yhu for your time..,
+- Thank yhu for your time..,
